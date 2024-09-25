@@ -1,6 +1,4 @@
 # Lola-s-Cheatsheet-s-Terminal
-
-Lola's Cheatsheet Terminal
 ---
 
 
