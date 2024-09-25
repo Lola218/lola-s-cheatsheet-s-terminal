@@ -1,4 +1,4 @@
-# lola-s-cheatsheet-s-terminal-V1.2
+# Lola-s-Cheatsheet-s-Terminal
 
 Lola's Cheatsheet Terminal
 ---
